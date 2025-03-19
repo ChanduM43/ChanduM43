@@ -39,6 +39,7 @@
 ###
 
 <h3 align="left">🛠 Language and Tools</h3>
+<p> C Python Html Css Javascript React Bootstrap Sql Mongodb etc</p>
 
 ###
 
